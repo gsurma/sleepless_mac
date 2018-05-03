@@ -7,7 +7,7 @@
 Status bar app that prevents your mac from sleeping.
 
 ## How to use it?
-* Download the .app from the Application folder
+* Download the Sleepless Mac.app from the Application folder
 * Or clone the repo and build it yourself
 
 ## Screenshots
